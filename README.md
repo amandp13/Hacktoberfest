@@ -8,9 +8,9 @@ Make your first Pull Request on GitHub!
 
 
 <p align="center">
-   <img alt="GitHub forks" src="https://img.shields.io/github/issues/OpenSouceCode/Hacktoberfest2020"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/OpenSouceCode/Hacktoberfest2020"></a>
-   <img alt="Github license" src="https://img.shields.io/github/license/OpenSouceCode/Hacktoberfest2020"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/issues/Open-Dev-Community/Hacktoberfest"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/Open-Dev-Community/Hacktoberfest"></a>
+   <img alt="Github license" src="https://img.shields.io/github/license/Open-Dev-Community/Hacktoberfest"></a>
 </p>
 # Welcome to GitHub!
 
