@@ -17,13 +17,13 @@ Make your first Pull Request on GitHub!
 ## This project is perfect for your first pull request
 
 ## Instructions-
-
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc
-- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile image in `imag/`
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Create a pull request
+- Firstly install `git` in your system and any text editor for editing code.
+- Fork this Repository using the button at the top (Forking means creating your own version of this repo in your account)
+- Clone your forked repository to your pc (get a copy of it to your local system to ease your work on it)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`) 
+- Add your profile image in `img/` (The folder in this repo)
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`) - (These commands effectively push the code from your local system to the GitHub repo on their server)
+- Create a pull request (A Pull-Request or a PR, is the way of requesting the owner of original repo from whom you forked from to confirm your changes globally)
 - Star this repository
 
 ## Joining the list
@@ -43,7 +43,7 @@ Happy hacking!
 
 ## 4. Wait for Pull Request to merge
 
-## 5. Celebrate - you've done your first pull request!!
+## 5. Celebrate - you've done your first Pull Request!!
 
 
 # Contributors
