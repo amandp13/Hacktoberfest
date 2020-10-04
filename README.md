@@ -65,5 +65,7 @@ Happy hacking!
 <br>
    <img src="https://avatars3.githubusercontent.com/u/30869493?s=460&u=d2bbb5941d65c1dc06020b6db1c682896a8c3b77&v=4.jpg" width="100" /><br><a href="https://github.com/schmelto" target="_blank">schmelto</a>
 
+<br>
+   <img src="img/annan.jpeg" width="100" /><br><a href="https://github.com/A-Annan" target="_blank">aannan</a>
 <!-- Add yourself above this comment line>
 </p>
