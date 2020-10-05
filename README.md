@@ -6,7 +6,12 @@ Make your first Pull Request on GitHub!
 ![Hacktoberfest 2020](osc_hacktoberfest2020.png)
 
 
-
+<p align = "center">
+    <img alt="OpenDevCommunity" src="https://img.shields.io/badge/MadeBy-OpenDevCommunity-orange"></a>
+    <a href="https://github.com/Open-Dev-Community/Tweet_data_hunter" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/Open-Dev-Community/Tweet_data_hunter"/><a>
+    <img src = "https://github.com/Open-Dev-Community/Basic-Python-Scripts/workflows/Python%20application/badge.svg"/>
+</p>
 <p align="center">
    <img alt="GitHub forks" src="https://img.shields.io/github/issues/Open-Dev-Community/Hacktoberfest"></a>
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Open-Dev-Community/Hacktoberfest"></a>
